@@ -1,0 +1,57 @@
+<html>
+<head>
+<title>Registration</title>
+</head>
+<body>
+<table border="1">
+<tr>
+<td><img src="https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?cs=srgb&dl=pexels-ella-olsson-1640777.jpg&fm=jpg" alt="food"/></td>
+<td>
+	<form action="" method="">
+	<table border="1">
+	<tr colspan="2">
+	<td>User Accounf Registration</td>
+	</tr>
+	
+	<tr>
+	<td>Full Name</td>
+	<td><input type="text" name="fname" id="fname"/></td>
+	</tr>
+	
+	<tr>
+	<td>Mobile Number</td>
+	<td><input type="text" name="mobile" id="mobile"/></td>
+	</tr>
+	
+	<tr>
+	<td>Email</td>
+	<td><input type="text" name="email" id="email"/></td>
+	</tr>
+	
+	<tr>
+	<td>Password</td>
+	<td><input type="password" name="password" id="password"/></td>
+	</tr>
+	</table>
+	
+	<table>
+		<tr>
+			<td>TERMS AND CONDITIONS</td>
+		</tr>
+	</table>
+	
+	</br>
+	
+	<div id="chkbox">
+		<input type="checkbox" name="tnc" id="tnc" value="tick"/>I accept the above <span>Terms and Conditions</span>
+		
+		</br></br>
+		<input type="Submit" value="Register" onclick="checkifempty()">
+	</div>
+	
+	</form>
+</td>
+</tr>
+</table>
+</body>
+</html>

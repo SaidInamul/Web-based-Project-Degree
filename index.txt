@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ANC Cafe</title>
+	<style>
+		#img1{
+			height:20px;
+			width:20px;
+		}
+	</style>
+</head>
+<body>
+	<div>
+	<table>
+		<tr>
+			<td>Profile</td>
+			<td><img id="img1" src="https://cdn1.vectorstock.com/i/1000x1000/25/25/shopping-cart-icon-vector-12712525.jpg" alt="Cart"/></td>
+		</tr>
+	</table>
+	</div>
+</body>
+</html>

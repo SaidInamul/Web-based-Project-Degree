@@ -1,0 +1,74 @@
+/*body*/
+body{
+	background-color:orange;
+}
+
+/*table properties*/
+#table1{
+	width:100%;
+	height:100%;
+}
+#lefttable1{
+	width:50%;
+	height:50%;
+	text-align:center;
+}
+#righttable1{
+	width:50%;
+	height:50%;
+	font-size:25px;
+}
+
+/*image*/
+#image1{
+	height:15%;
+	width:80%;
+}
+
+/*division*/
+#div1{
+	background-color:;
+	text-align:center;
+	height:;
+}
+#div2{
+	text-align:center;
+}
+
+/*word styling*/
+b{
+	font-size:40px;
+}
+p{
+	font-size:15px;
+}
+label{
+	font-size:20px;
+	text-align:left;
+}
+
+/*input styling*/
+input[type=text]{
+	width:500px;
+	height:60px;
+	text-align:center;
+}
+input[type=password]{
+	width:500px;
+	height:60px;
+	text-align:center;
+}
+input[type=submit]{
+	font-size:20px;
+	width:500px;
+	height:60px;
+	background-color:#A8A8A8;
+	color:white;
+	border:none;
+	border-radius:5px;
+}
+/*error*/
+.error {
+    color: black;
+    font-size: 60%;
+}
